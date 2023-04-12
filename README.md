@@ -10,4 +10,9 @@ This repo contains the CTGAN, which is a generative adversarial network for gene
 first cell contain libraries to install using pip.
 Run all cells thereafter.
 
-(REF: https://github.com/sdv-dev/CTGAN)
+@inproceedings{ctgan,
+  title={Modeling Tabular data using Conditional GAN},
+  author={Xu, Lei and Skoularidou, Maria and Cuesta-Infante, Alfredo and Veeramachaneni, Kalyan},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2019}
+}
