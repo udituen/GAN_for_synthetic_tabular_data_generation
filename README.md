@@ -1,6 +1,6 @@
 # GAN_for_synthetic_tabular_data_generation 
 (REF: https://github.com/sdv-dev/CTGAN)
-This repo contains the CTGAN, which is a generative adversarial network for generating synthetic tabular data specifically call detail records
+This repo contains the CTGAN, which is a generative adversarial network for generating synthetic tabular data; specifically for call detail records.
 
 ## Libraries needed:
 -- CTGAN
