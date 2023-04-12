@@ -1,5 +1,4 @@
-# GAN_for_synthetic_tabular_data_generation 
-(REF: https://github.com/sdv-dev/CTGAN)
+# GAN for synthetic tabular data generation 
 This repo contains the CTGAN, which is a generative adversarial network for generating synthetic tabular data; specifically for call detail records.
 
 ## Libraries needed:
@@ -11,3 +10,4 @@ This repo contains the CTGAN, which is a generative adversarial network for gene
 first cell contain libraries to install using pip.
 Run all cells thereafter.
 
+(REF: https://github.com/sdv-dev/CTGAN)
