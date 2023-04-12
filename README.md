@@ -9,7 +9,5 @@ This repo contains the CTGAN, which is a generative adversarial network for gene
 
 ## Execution instruction
 first cell contain libraries to install using pip.
-
-For Sichuan dataset, generate 2Million fraud call records after training the model.
-
+Run all cells thereafter.
 
